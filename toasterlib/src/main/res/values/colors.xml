@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="info">#9574ea</color>
+    <color name="warning">#ff7d00</color>
+    <color name="error">#d14465</color>
+    <color name="success">#3dd94a</color>
+</resources>
