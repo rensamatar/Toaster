@@ -1,4 +1,4 @@
-package tarconcept.com.toasterlib;
+package com.tarconcept.toaster;
 
 import android.widget.Toast;
 

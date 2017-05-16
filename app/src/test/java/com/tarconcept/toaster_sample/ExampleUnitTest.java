@@ -1,4 +1,4 @@
-package tarconcept.com.toasterlib;
+package com.tarconcept.toaster_sample;
 
 import org.junit.Test;
 

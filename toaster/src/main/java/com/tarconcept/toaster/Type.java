@@ -1,4 +1,4 @@
-package tarconcept.com.toasterlib;
+package com.tarconcept.toaster;
 
 /**
  * Created by Tar on 5/16/17.

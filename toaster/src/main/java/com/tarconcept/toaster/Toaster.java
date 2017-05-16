@@ -1,4 +1,4 @@
-package tarconcept.com.toasterlib;
+package com.tarconcept.toaster;
 
 import android.content.Context;
 import android.os.Build;
@@ -9,6 +9,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
+import tarconcept.com.toaster.R;
 
 /**
  * Created by Tar on 5/16/17.

@@ -1,12 +1,12 @@
-package tarconcept.com.toaster;
+package com.tarconcept.toaster_sample;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-
-import tarconcept.com.toasterlib.Duration;
-import tarconcept.com.toasterlib.Toaster;
+import com.tarconcept.toaster.Duration;
+import com.tarconcept.toaster.Toaster;
+import tarconcept.com.toaster_sample.R;
 
 public class MainActivity extends AppCompatActivity {
 

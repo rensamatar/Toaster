@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Toaster.iml" filepath="$PROJECT_DIR$/Toaster.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/toasterlib/toasterlib.iml" filepath="$PROJECT_DIR$/toasterlib/toasterlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toaster/toaster.iml" filepath="$PROJECT_DIR$/toaster/toaster.iml" />
     </modules>
   </component>
 </project>

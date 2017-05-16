@@ -1,4 +1,4 @@
-package tarconcept.com.toasterlib;
+package com.tarconcept.toaster;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("tarconcept.com.toasterlib.test", appContext.getPackageName());
+        assertEquals("tarconcept.com.toaster.test", appContext.getPackageName());
     }
 }
